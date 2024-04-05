@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dev-sunil-dash
-- 👀 I’m a passionate React developer with over 1+ years of hands-on experience.
+- 👀 I’m a passionate React developer with over 2+ years of hands-on experience.
 - 🌱 Currently, I'm exploring advanced React patterns, state management with Redux, and improving performance in React applications.
 - 💼 I’ve contributed to several React projects, specializing in building interactive user interfaces and ensuring a seamless user experience.
 - 💞️ Open to collaboration on React-based projects or anything related to front-end development.
